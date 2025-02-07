@@ -1,9 +1,10 @@
 import { style } from "typestyle";
+import { Cell } from "./Cell";
 
 export function Canvas() {
   return (
     <div className={styles.canvas}>
-      <h1>Hi</h1>
+      <Cell name="asd" />
     </div>
   );
 }
