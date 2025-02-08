@@ -118,7 +118,7 @@ export enum StandardColors {
   ColorMarketingGray70 = "#5e5e72",
   ColorMarketingGray80 = "#42425a",
   ColorMarketingGray90 = "#1f2033",
-  ColorMarketingGray99 = "#20123a",
+  ColorMarketingGray99 = "#20123b",
   ColorInk05 = "#393473",
   ColorInk10 = "#342f6d",
   ColorInk20 = "#312a64",
